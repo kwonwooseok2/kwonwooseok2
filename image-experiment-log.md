@@ -630,3 +630,53 @@ Japanese 2D cel anime painting, even ink lines, clean two-tone cel color, lumino
 ### Exact prompt, mat24-hold-c.jpg (generated, visual fail)
 
 Japanese 2D cel anime painting, even ink lines, clean two-tone cel color, luminous catchlights, eye contact, fair ivory skin, warm cheek flush, rim light. One original adult woman about twenty-five, athletic build, platinum blonde hair, adult face and proportions, never school-age, no school clothes, no halo, an original person. Expression of enjoyment, open smile. She kneels on one support plane. Low extremely close wide lens, strong foreshortening, so the groin is the closest and largest foreground form while her face stays readable. No lettering. No 3D, no pores, no plastic skin. Exactly two arms, two legs, two hands, two feet, five fingers, normal joints. Cloth: no cords. Three very small opaque circles of thin blush-rose microfiber, physically draped on the body as if barely clinging but still seated. One on the left chest center, one on the right chest center, one on the pelvic front. They cover those centers and do not slide off them. Fine woven grain, soft folded rim, fully opaque, no skin tone showing through. Outer face has contour, apex highlight, form shadow, pressed edge. No second swimsuit, no padded cups. Two adult men appear only as arms and hands from outside the frame, no faces, no torsos. Four hands, each with five fingers, every forearm continues off-frame, no floating hands. Both men nearly embrace her and knead firmly: deep finger dents, flesh rising between fingers, contact shadows. Their hands press the body and the cloth but do not pull the circles off the chest centers or the pelvic front. Her hands do not merge with theirs.
+
+## Slip batch (this session)
+
+Three files were submitted once each. One image was written and Read. Two requests were provider-blocked before any image was written. The blocked wording was not retried. No word-level cause is stated. Counts: generated 1, blocked 2, visual pass 0, visual fail 1.
+
+Pass gate for this batch: the three circles still cover the chest centers and the pelvic front, genitals are not visible, the named region is largest, and forearms connect.
+
+### mat24-slip-a.jpg
+
+- On disk: no
+- Provider outcome (this session): provider-blocked
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: buttocks closest
+- Exact prompt: recorded below
+- Visual inspection: no file to inspect
+- Disposition: blocked wording closed. Not retried.
+
+### mat24-slip-b.jpg
+
+- On disk: no
+- Provider outcome (this session): provider-blocked
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: chest closest
+- Exact prompt: recorded below
+- Visual inspection: no file to inspect
+- Disposition: blocked wording closed. Not retried.
+
+### mat24-slip-c.jpg
+
+- On disk: yes (344111 bytes, Oct 19 22:47)
+- Path: `/opt/cursor/artifacts/assets/mat24-slip-c.jpg`
+- Provider outcome (this session): generated
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: groin closest
+- Exact prompt: recorded below
+- Visual inspection (this session, file opened): one adult-presenting woman, athletic, loose platinum blonde hair, open smile, eye contact, warm cheek flush, kneeling on one floor plane. Rendering is glossy anime with soft gradients, not flat two-tone cel. Three opaque blush-rose cloth pieces cover the left chest center, the right chest center, and the pelvic front. They are draped triangles with folded edges, not very small circles. Skin color does not show through. The chest pieces hang and fold downward while the centers stay covered. The pelvic piece covers the pelvic front. A little dark hair shows along the upper edge of the pelvic cloth. Genitals are not visible. No cords and no second garment. Two male hands grip the upper arms, and each continues into a forearm that leaves the frame. A second pair is not in frame. The hands press the arms, not the cloth. Her hands rest on the floor and are not holding the cloth. The nearest largest forms are the knees and thighs. The groin cover sits mid-frame and is not the closest or largest form. The face stays readable at the top.
+- Gate: the three centers stay covered, genitals are not visible, and the visible forearms connect. The groin is not the largest foreground, and only one pair of arms is in frame.
+- Judgment: visual fail. Not overwritten.
+
+### Exact prompt, mat24-slip-a.jpg (blocked, not retried)
+
+Japanese 2D cel, even ink lines, clean two-tone color, luminous eyes, eye contact, fair ivory skin, warm blush, rim light. Expression of enjoyment. No 3D, no pores, no plastic skin, no lettering. One original adult woman about twenty-five, adult face and proportions, never school-age, no school clothes, no halo, an original person. Slender, long black ponytail. Reclining twist on one support plane. Low extremely close wide lens, strong foreshortening, face readable, buttocks closest and largest. Exactly two arms, two legs, two hands, two feet, five fingers, normal joints. Cloth: no cords. Three very small opaque circles of thin blush-rose microfiber, draped on the body and slipping downward under gravity, but still covering the left chest center, the right chest center, and the pelvic front. She keeps them from falling off by shifting her torso and hips, not by grabbing them with her hands. Her hands are not holding the cloth. Fine woven grain, soft folded rim, fully opaque, no skin tone showing through the circles. A little pubic hair may show at the edge of the pelvic circle. Do not draw genitals. Outer face has contour, apex highlight, form shadow, pressed edge. No second swimsuit. Two adult men appear only as arms and hands from off-frame, no faces, no torsos. Four hands, five fingers each, forearms continue off-frame. Both men nearly embrace her and knead firmly, with deep finger dents and contact shadows. They do not pull the circles off the centers.
+
+### Exact prompt, mat24-slip-b.jpg (blocked, not retried)
+
+Japanese 2D cel, even ink lines, clean two-tone color, luminous eyes, eye contact, fair ivory skin, warm blush, rim light. Expression of enjoyment. No 3D, no pores, no plastic skin, no lettering. One original adult woman about twenty-five, adult face and proportions, never school-age, no school clothes, no halo, an original person. Voluptuous, auburn braid. Side lean on one support plane. Low extremely close wide lens, strong foreshortening, face readable, chest closest and largest. Exactly two arms, two legs, two hands, two feet, five fingers, normal joints. Cloth: no cords. Three very small opaque circles of thin blush-rose microfiber, draped on the body and slipping downward under gravity, but still covering the left chest center, the right chest center, and the pelvic front. She keeps them from falling off by shifting her torso and hips, not by grabbing them with her hands. Her hands are not holding the cloth. Fine woven grain, soft folded rim, fully opaque, no skin tone showing through the circles. A little pubic hair may show at the edge of the pelvic circle. Do not draw genitals. Outer face has contour, apex highlight, form shadow, pressed edge. No second swimsuit. Two adult men appear only as arms and hands from off-frame, no faces, no torsos. Four hands, five fingers each, forearms continue off-frame. Both men nearly embrace her and knead firmly, with deep finger dents and contact shadows. They do not pull the circles off the centers.
+
+### Exact prompt, mat24-slip-c.jpg (generated, visual fail)
+
+Japanese 2D cel, even ink lines, clean two-tone color, luminous eyes, eye contact, fair ivory skin, warm blush, rim light. Expression of enjoyment. No 3D, no pores, no plastic skin, no lettering. One original adult woman about twenty-five, adult face and proportions, never school-age, no school clothes, no halo, an original person. Athletic, platinum blonde. Kneeling on one support plane. Low extremely close wide lens, strong foreshortening, face readable, groin closest and largest. Exactly two arms, two legs, two hands, two feet, five fingers, normal joints. Cloth: no cords. Three very small opaque circles of thin blush-rose microfiber, draped on the body and slipping downward under gravity, but still covering the left chest center, the right chest center, and the pelvic front. She keeps them from falling off by shifting her torso and hips, not by grabbing them with her hands. Her hands are not holding the cloth. Fine woven grain, soft folded rim, fully opaque, no skin tone showing through the circles. A little pubic hair may show at the edge of the pelvic circle. Do not draw genitals. Outer face has contour, apex highlight, form shadow, pressed edge. No second swimsuit. Two adult men appear only as arms and hands from off-frame, no faces, no torsos. Four hands, five fingers each, forearms continue off-frame. Both men nearly embrace her and knead firmly, with deep finger dents and contact shadows. They do not pull the circles off the centers.

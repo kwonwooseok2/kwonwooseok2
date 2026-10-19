@@ -476,3 +476,53 @@ Pure 2D Japanese anime cel illustration, fine even line art, clean flat cel shad
 Garment: one strapless micro bikini with no strings and no second layer. Three small fully opaque circles of very thin microfiber, each about 5 cm across, stay seated: one on the left chest center, one on the right chest center, one on the pelvic front. The microfiber shows a fine textile grain and a soft edge. Fully opaque. Skin color does not show through. On the outer face show contour, an apex highlight, a form shadow, and a pressed edge. At the cloth edge the skin crowds slightly and a contact shadow sits in the crease.
 
 An unidentified adult man's two hands and two forearms enter from off-frame, no face, no torso. His hands press down on the microfiber and cover the chest centers and the groin. The circles remain under his hands. Hard grip: hollow palm, deep finger dents, cloth and flesh rising between the fingers, contact shadow in each dent. Five fingers on each hand. Her hands stay off the cloth and never merge with his. Exactly two arms, two legs, two hands, two feet. Joints in a normal range. No extra limbs, no ghost strings. One support plane.
+
+## Two batch (this session)
+
+Three files were submitted once each. Two images were written and Read. One request was provider-blocked before any image was written. The blocked wording was not retried. No word-level cause is stated. Counts: generated 2, blocked 1, visual pass 1, visual fail 1.
+
+Pass gate for this batch: three cloths stay on the centers, no second garment, four hands connect to forearms, no extra limbs, and the closest region is actually large.
+
+### mat24-two-a.jpg
+
+- On disk: yes (259528 bytes, Oct 19 22:27)
+- Path: `/opt/cursor/artifacts/assets/mat24-two-a.jpg`
+- Provider outcome (this session): generated
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: chest closest
+- Exact prompt: recorded below
+- Visual inspection (this session): one adult-presenting woman, auburn side braid, open smile, eye contact, reclining on one pale support plane. Rendering is soft anime shading rather than flat two-tone cel. Three opaque blush-rose cloths are present: two draped pieces over the chest centers and one wider triangular piece over the pelvic front. Skin does not show through them. No second garment and no cords. Only two male hands and two forearms enter the frame; both hands are on cloth (one on a chest cover, one tugging the pelvic cover). The other pair is absent. Her hands are not visible and do not merge with the male hands. No extra limbs are visible. The view is a medium high angle; the chest is large, and the thighs plus the pelvic cloth also fill the foreground, so the chest is not the extreme-close nearest region.
+- Disposition: visual fail. Not overwritten.
+
+### mat24-two-b.jpg
+
+- On disk: yes (306734 bytes, Oct 19 22:27)
+- Path: `/opt/cursor/artifacts/assets/mat24-two-b.jpg`
+- Provider outcome (this session): generated
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: groin closest
+- Exact prompt: recorded below
+- Visual inspection (this session): one adult-presenting woman, platinum blonde tousled hair, open smile, eye contact, kneeling on one support plane. Ink lines with soft cel color, not flat two-tone. Three opaque blush-rose cloths stay on the left chest center, the right chest center, and the pelvic front. They read as draped woven cloth with folded rims, larger than five centimeters. Skin does not show through. No second garment and no cords. Four male hands, each continuing into a forearm that leaves the frame: the upper pair presses the chest covers, and the lower pair tugs the pelvic cover downward. The upper pair is on the cloth, not kneading the body beside it. Centers stay covered. Her hands and arms are outside the frame and do not merge with the male hands. No extra limbs are visible. The pelvic front is in the foreground and large.
+- Disposition: visual pass on the stated gate. Recorded miss: the pressing pair is on the chest covers rather than on the body beside the cloth.
+
+### mat24-two-c.jpg
+
+- On disk: no
+- Provider outcome (this session): provider-blocked
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: buttocks closest
+- Exact prompt: recorded below
+- Visual inspection: no file to inspect
+- Disposition: blocked wording closed. Not retried.
+
+### Exact prompt, mat24-two-a.jpg (generated, visual fail)
+
+Japanese 2D anime cel illustration, even ink lines, clean two-tone cel color, not 3D, no pores, no plastic skin. One original woman in her mid-twenties, adult face and adult proportions, voluptuous build, glossy tousled auburn hair in a single braid, large luminous eyes with catchlights, eye contact, open smile of enjoyment, fair ivory skin, warm cheek flush, rim light. She reclines on one plain support plane and leans her torso toward a low extremely close wide lens so her chest is the closest and largest form while her face stays readable. No text. No school uniform, no halo, an original person. Three small opaque covers of thin blush-rose microfiber, about five centimeters, physically draped and lightly stretched, fine woven grain, folded cloth rim: one on the left chest center, one on the right chest center, one on the pelvic front. They stay seated. Fully opaque. Skin color does not show through. Each outer face has contour, apex highlight, form shadow, and a pressed edge. No cords, no second swimsuit. Two adult men, each twenty-one, appear only as hands and forearms from outside the frame, no faces, no torsos. Four male hands total, each with five fingers, each forearm connecting off-frame, none floating. One man's two hands firmly press and knead the body beside the cloth, with deep finger dents, flesh rising between the fingers, and contact shadows, and they do not pull the cloth off the centers. The other man's two hands actively tug the microfiber downward while the three covers remain over the chest centers and the pelvic front. Her own two hands stay off the cloth and never merge with theirs. Exactly two arms, two legs, two hands, two feet. Joints in a normal range. Coherent anatomy.
+
+### Exact prompt, mat24-two-b.jpg (passed)
+
+Pure 2D Japanese anime cel painting, even ink lines, clean two-tone flat color, glossy hair locks, no 3D render, no pores, no plastic skin. One original athletic woman about twenty-five, adult facial structure and adult limb proportions, platinum blonde hair glossy and tousled, large luminous eyes with catchlights, direct eye contact, an open smile of enjoyment, fair ivory skin, warm cheek flush, rim light. She kneels on a single support surface. The camera is low, extremely close, and wide, so the pelvic front is foreshortened into the largest nearest shape and her face remains readable. No lettering. No school clothes, no halo, an original person. Cloth: three small opaque covers of thin blush-rose microfiber, each about five centimeters, physically draped and lightly stretched on the body, fine woven grain, folded cloth rim, one seated on the left chest center, one on the right chest center, one on the pelvic front. They stay seated and fully opaque. Skin color does not show through. Outer face of each cover shows contour, apex highlight, form shadow, and a pressed edge. No cords and no second swimsuit. Only hands and forearms of two adult men, each twenty-one years old, enter from outside the frame. No male faces, no male torsos. Four hands in total, five fingers on every hand, every forearm continues off-frame and none of the hands float. One man's pair firmly presses and kneads the body beside the cloth, leaving deep finger dents, flesh rising between fingers, and contact shadows, without pulling the covers off the centers. The other man's pair actively tugs the microfiber downward, yet the three covers remain over the chest centers and the pelvic front. Her hands stay clear of the cloth and do not merge with the men's hands. She has exactly two arms, two legs, two hands, and two feet, with joints in a normal range.
+
+### Exact prompt, mat24-two-c.jpg (blocked, not retried)
+
+Flat 2D anime cel illustration, crisp even linework, two-tone cel color, not a 3D model, no pores, no plastic skin. One original slender woman in her mid-twenties with an adult face, long glossy black hair in a tousled ponytail, large luminous eyes with catchlights, eye contact over her shoulder, open smile of enjoyment, fair ivory skin, warm cheek flush, rim light. She is on hands and knees on one support plane, turned enough that her rear is nearest the lens and reads largest, while the front pelvic cover stays visible and her face stays readable. Low extremely close wide lens. No text. No school uniform, no halo, not a canon character. Three small opaque covers of thin blush-rose microfiber, about five centimeters each, physically draped and lightly stretched, fine woven grain and a folded cloth rim, seated on the left chest center, the right chest center, and the pelvic front. Fully opaque, skin color does not show through, and they stay seated. Each outer face has contour, an apex highlight, a form shadow, and a pressed edge. No cords, no second swimsuit. Two adult men aged twenty-one are shown only as hands and forearms entering from outside the frame, no faces and no torsos. Four hands, five fingers each, each forearm connecting off-frame, none floating. One man's two hands firmly press and knead the body beside the cloth with deep finger dents, flesh rising between fingers, and contact shadows, without pulling the covers off the centers. The other man's two hands actively tug the microfiber downward while those three covers remain over the chest centers and the pelvic front. Her hands never merge with theirs and stay off the cloth. Exactly two arms, two legs, two hands, two feet. Joints in a normal range. Coherent anatomy.

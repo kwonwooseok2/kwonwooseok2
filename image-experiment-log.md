@@ -578,3 +578,55 @@ Japanese 2D cel anime painting, even ink lines, clean two-tone cel color, lumino
 ### Exact prompt, mat24-fiber3-c.jpg (blocked, not retried)
 
 Japanese 2D cel anime painting, even ink lines, clean two-tone cel color, luminous catchlights in the eyes. An original slender adult woman about twenty-five years old, adult facial structure and adult limb proportions, slightly tousled glossy long black hair in a ponytail, cold contempt, eye contact, fair ivory skin with a warm cheek flush and rim light. She reclines in a twist on one support surface. The camera sits low and extremely close with a wide lens, so the hip is foreshortened into the largest shape, while her face remains readable. No lettering. No school clothes, no halo, an original person. Three small opaque covers of thin blush-rose microfiber sit in place: left chest center, right chest center, and the pelvic front. Each cover is soft cloth, lightly stretched, with a fine woven grain and a folded cloth rim, about five centimeters wide, fully opaque, no skin tone showing through. The outer surface has a contour line, a highlight at the apex, a form shadow, and a pressed edge that describe the shape beneath. No cords, no extra swim garment, no padded cups. Two adult male forearms reach in from off-frame, only hands and forearms, and both hands pinch the microfiber and tug it a little without uncovering the chest centers or the pelvic front. Firm fingers leave dents and contact shadows; each hand has five fingers. Her hands are not touching the cloth. Anatomy is ordinary: two arms, two legs, two hands, two feet, normal joints.
+
+## Hold batch (this session)
+
+Three files were submitted once each. Two images were written and Read. One request was provider-blocked before any image was written. The blocked wording was not retried. No word-level cause is stated. Counts: generated 2, blocked 1, visual pass 1, visual fail 1.
+
+Pass gate for this batch: the three covers stay on the centers, the named region is the largest foreground, forearms connect, and there is no second garment.
+
+### mat24-hold-a.jpg
+
+- On disk: no
+- Provider outcome (this session): provider-blocked
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: buttocks closest
+- Exact prompt: recorded below
+- Visual inspection: no file to inspect
+- Disposition: blocked wording closed. Not retried.
+
+### mat24-hold-b.jpg
+
+- On disk: yes (289849 bytes, Oct 19 22:40)
+- Path: `/opt/cursor/artifacts/assets/mat24-hold-b.jpg`
+- Provider outcome (this session): generated
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: chest closest
+- Exact prompt: recorded below
+- Visual inspection (this session, file opened): one adult-presenting woman, voluptuous, auburn hair in a braid, open smile, eye contact, warm cheek flush. She is angled back toward a low close camera on one support plane. The chest is the largest and nearest form; the face stays readable at the top. Rendering is glossy anime with soft gradients, not flat two-tone cel. Three opaque blush-rose cloth pieces sit on the left chest center, the right chest center, and the pelvic front. They show a woven grain, folded rims, an apex highlight, and a form shadow, and they read as draped cloth. The pieces are rounded triangles rather than very small circles, and they are larger than a tiny circle, but skin color does not show through and the centers stay covered. No cords and no second garment. Three male hands are visible, each continuing into a forearm that leaves the frame: one on the left chest cloth, one on the right chest cloth, and one on the pelvic cloth. A fourth hand is not in frame, so two pairs of arms are not both visible. The hands press the cloth. Her hands are not visible and do not merge with the male hands.
+- Gate: centers stay covered; chest is the largest foreground; the visible forearms connect; no second garment.
+- Judgment: visual pass. Recorded miss: only three forearms are in frame, and the covers are rounded triangles rather than small circles.
+
+### mat24-hold-c.jpg
+
+- On disk: yes (256104 bytes, Oct 19 22:40)
+- Path: `/opt/cursor/artifacts/assets/mat24-hold-c.jpg`
+- Provider outcome (this session): generated
+- Aspect ratio requested: 3:4
+- Foreground region in the prompt: groin closest
+- Exact prompt: recorded below
+- Visual inspection (this session, file opened): one adult-presenting woman, athletic, platinum blonde loose hair, open smile, eye contact, kneeling on one floor plane. The frame runs from the knees to the head. Thighs, knees, chest, and face are all large. The groin cover sits in the middle of the frame and is not the closest or largest form. Three opaque blush-rose cloth pieces cover the left chest center, the right chest center, and the pelvic front. They show a woven grain and folded edges and read as cloth. The chest pieces are small triangles; the pelvic piece is a larger triangle with no waistband and no leg openings. Skin color does not show through. No cords and no second garment. Four male hands are visible, and each continues into a forearm that leaves the frame: two at the chest, one across the midriff from the left, and one at the right hip. Her hands are not visible and do not merge with the male hands.
+- Gate: centers stay covered, forearms connect, and there is no second garment. The groin is not the largest foreground.
+- Judgment: visual fail. Not overwritten.
+
+### Exact prompt, mat24-hold-a.jpg (blocked, not retried)
+
+Japanese 2D cel anime painting, even ink lines, clean two-tone cel color, luminous catchlights, eye contact, fair ivory skin, warm cheek flush, rim light. One original adult woman about twenty-five, slender build, long black hair in a ponytail, adult face and proportions, never school-age, no school clothes, no halo, an original person. Expression of enjoyment, open smile. She reclines in a twist on one support plane. Low extremely close wide lens, strong foreshortening, so the buttocks are the closest and largest foreground form while her face stays readable. No lettering. No 3D, no pores, no plastic skin. Exactly two arms, two legs, two hands, two feet, five fingers, normal joints. Cloth: no cords. Three very small opaque circles of thin blush-rose microfiber, physically draped on the body as if barely clinging but still seated. One on the left chest center, one on the right chest center, one on the pelvic front. They cover those centers and do not slide off them. Fine woven grain, soft folded rim, fully opaque, no skin tone showing through. Outer face has contour, apex highlight, form shadow, pressed edge. No second swimsuit, no padded cups. Two adult men appear only as arms and hands from outside the frame, no faces, no torsos. Four hands, each with five fingers, every forearm continues off-frame, no floating hands. Both men nearly embrace her and knead firmly: deep finger dents, flesh rising between fingers, contact shadows. Their hands press the body and the cloth but do not pull the circles off the chest centers or the pelvic front. Her hands do not merge with theirs.
+
+### Exact prompt, mat24-hold-b.jpg (passed)
+
+Japanese 2D cel anime painting, even ink lines, clean two-tone cel color, luminous catchlights, eye contact, fair ivory skin, warm cheek flush, rim light. One original adult woman about twenty-five, voluptuous build, auburn hair in a braid, adult face and proportions, never school-age, no school clothes, no halo, an original person. Expression of enjoyment, open smile. She leans to the side on one support plane. Low extremely close wide lens, strong foreshortening, so the chest is the closest and largest foreground form while her face stays readable. No lettering. No 3D, no pores, no plastic skin. Exactly two arms, two legs, two hands, two feet, five fingers, normal joints. Cloth: no cords. Three very small opaque circles of thin blush-rose microfiber, physically draped on the body as if barely clinging but still seated. One on the left chest center, one on the right chest center, one on the pelvic front. They cover those centers and do not slide off them. Fine woven grain, soft folded rim, fully opaque, no skin tone showing through. Outer face has contour, apex highlight, form shadow, pressed edge. No second swimsuit, no padded cups. Two adult men appear only as arms and hands from outside the frame, no faces, no torsos. Four hands, each with five fingers, every forearm continues off-frame, no floating hands. Both men nearly embrace her and knead firmly: deep finger dents, flesh rising between fingers, contact shadows. Their hands press the body and the cloth but do not pull the circles off the chest centers or the pelvic front. Her hands do not merge with theirs.
+
+### Exact prompt, mat24-hold-c.jpg (generated, visual fail)
+
+Japanese 2D cel anime painting, even ink lines, clean two-tone cel color, luminous catchlights, eye contact, fair ivory skin, warm cheek flush, rim light. One original adult woman about twenty-five, athletic build, platinum blonde hair, adult face and proportions, never school-age, no school clothes, no halo, an original person. Expression of enjoyment, open smile. She kneels on one support plane. Low extremely close wide lens, strong foreshortening, so the groin is the closest and largest foreground form while her face stays readable. No lettering. No 3D, no pores, no plastic skin. Exactly two arms, two legs, two hands, two feet, five fingers, normal joints. Cloth: no cords. Three very small opaque circles of thin blush-rose microfiber, physically draped on the body as if barely clinging but still seated. One on the left chest center, one on the right chest center, one on the pelvic front. They cover those centers and do not slide off them. Fine woven grain, soft folded rim, fully opaque, no skin tone showing through. Outer face has contour, apex highlight, form shadow, pressed edge. No second swimsuit, no padded cups. Two adult men appear only as arms and hands from outside the frame, no faces, no torsos. Four hands, each with five fingers, every forearm continues off-frame, no floating hands. Both men nearly embrace her and knead firmly: deep finger dents, flesh rising between fingers, contact shadows. Their hands press the body and the cloth but do not pull the circles off the chest centers or the pelvic front. Her hands do not merge with theirs.

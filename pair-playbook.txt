@@ -2031,7 +2031,6 @@ EVERY FRAME.
 - She stays a normal adult size. Same adult scale beside a man. Do not enlarge her so his whole body also fits.
 - She is flushed, heavy blush, mouth open, happy. The men are flushed and look at her. At least one man uses a mouth or a kneading hand. The others are engaged, not idle.
 - Adults, faces 25 or older, ordinary builds.
-- Full-color Korean webtoon. Do not write the words Japanese, Japan, anime, or manga anywhere in the prompt.
 
 PICK ONE.
 - One mouth, one action.
@@ -2132,7 +2131,6 @@ PASSIVE. On every frame, and on every future run.
 11. Poses rotate. Not the same family on neighbors: face down with her butt raised; butt pushed back toward the lens; squat with knees spread; kneel; seated; on all fours; standing bent forward.
 12. Floor, or a named sofa, bed, or table. Feet and knees rest on that surface. Nothing sinks through it. A soft shadow under each contact.
 13. Adults, faces 25 or older, ordinary builds.
-14. Full-color Korean webtoon. Do not write Japanese, Japan, anime, or manga.
 
 EVERY FRAME also keeps these proven lines when they do not clash with the clothing state. Use each once, not on neighboring frames.
 - "We look up from the floor along her back. Her hip is near the lens. Her shoulders are farther away."
@@ -2271,8 +2269,7 @@ PASSIVE. On every frame. Where section 45 is stricter, the stricter line stays.
 10. Poses rotate: face down with the butt raised; butt pushed toward the lens; squat with knees spread; kneel; the liked low kneel with the panty halfway down.
 11. Feet and knees on the floor or on named furniture. Nothing sinks. A soft shadow under each contact. Men are not inside walls. No torso, arm, or leg continues into a wall or into the floor.
 12. Adults, faces 25 or older, ordinary builds, not muscular.
-13. Full-color Korean webtoon. Do not write Japanese, Japan, anime, or manga.
-14. When the top is off, the nipple and the areola are both visible on each breast.
+13. When the top is off, the nipple and the areola are both visible on each breast.
 
 ATTEMPT. At least once. A miss does not retire the item. Reword and try again.
 - Tongue kiss, and that man looks at her face.
@@ -2381,7 +2378,6 @@ DO NOT PASTE these exact sentences. The request stays on ATTEMPT under new words
 - "Short dark hairs shade a wide spot on her stomach, well under the navel."
 - "Fine dark hairs shadow the skin just below her navel, spread sideways in a short wide shade."
 
-Current test note, not a forever lock: the batch in progress is full-color Korean webtoon. Do not write the words Japanese, Japan, anime, or manga in that batch's prompts.
 Older locks in sections 38 through 43 still stand where this section does not replace them. This section replaces "she looks happy" on every frame with the five-expression rotation. This section replaces fully worn swimwear with the three clothing states.
 Results. Not filled. Generation has not run.
 
@@ -2479,7 +2475,6 @@ DO NOT PASTE these exact sentences. The request stays on ATTEMPT under new words
 - "Short dark hairs shade a wide spot on her stomach, well under the navel."
 - "Fine dark hairs shadow the skin just below her navel, spread sideways in a short wide shade."
 
-Current test note, not a forever lock: the batch in progress is full-color Korean webtoon. Do not write the words Japanese, Japan, anime, or manga in that batch's prompts.
 
 Older locks in sections 38 through 43 still stand where this section does not replace them. This section replaces "she looks happy" on every frame with the five-expression rotation. This section replaces fully worn swimwear with the three clothing states.
 
@@ -2510,7 +2505,7 @@ The same five correction sentences are on the passive sheet in section 47. Paste
 49. GENERATION SHEET — mat219. Copies the section 47 paste.
 ============================================================
 
-Sections 1 through 48 stay. This section does not replace them. Every mat219 prompt pastes the MAT219 PASTE block in section 47. That block is the contact lock. A polite frame, a fully dressed frame, a solo, or idle standing men is invalid and is replaced. Full-color Korean webtoon. Do not write Japanese, Japan, anime, or manga. No reference image.
+Sections 1 through 48 stay. This section does not replace them. Every mat219 prompt pastes the MAT219 PASTE block in section 47. That block is the contact lock. A polite frame, a fully dressed frame, a solo, or idle standing men is invalid and is replaced. No reference image.
 
 Socks are a per-frame pick, not always on. Frames 1, 2, 5, 8, and 10 use short white ankle socks. Frames 3, 4, 6, 7, and 9 are bare feet. Neighbors do not have to alternate. Socks do not replace the clothing rule.
 
@@ -2584,3 +2579,38 @@ STANDING RULE. The short file holds these lines.
 
 PASSIVE, every frame.
 - At least one man is licking her or taking her clothes off. The place is the center of her buttock, the center of her groin, or the center of her chest. Vary the place across a batch of ten. A distant look does not count. If he is taking the cloth off, the cloth has left that skin. A string pulled tight while the garment stays in place does not count. His tongue is wet.
+- The picture is a slightly realistic 2D illustration. Painted 2D, not a photograph and not a 3D render. Skin and faces are a little realistic. Do not write Korean, Korea, Japanese, Japan, anime, or manga in the prompt. This style line does not relax the sex, clothing, or contact lines. A wholesome clothed portrait is still invalid.
+
+============================================================
+54. MAT222 — three to five men, a real room, lick or undress a center.
+============================================================
+
+Sections 1 through 53 stay. This section does not replace them. mat220 and mat221 are not this delivery. Do not continue them.
+
+Lines added to the short file before generation, because they were missing there:
+
+- One woman and three, four, or five men. Vary the count. Dense sex. Bodies pressed together. Mouths and hands are on each other. People kneeling apart, standing in a line, or posing for a portrait is invalid. Replace that file.
+- The place is somewhere sex can happen. Vary it: a bed, a sofa, a bathroom floor, a shower, a hotel room, a closed living room, a futon. Not a white void. Not a public lineup. Not a kitchen portrait.
+- Her breasts are a natural size, not enlarged.
+- Crop on her. A man may be hands, forearms, or part of a torso. Same scale.
+- Dark triangle swim briefs. The front cloth stands away from the body in a stiff tent. If his cock is out, it is erect. That is allowed when she licks or sucks it.
+- At least one man licks her or takes her clothes off at the center of her buttock, the center of her groin, or the center of her chest. Tongue is wet. Flesh dents under the tongue or the fingers. The knead is hard.
+- Nipple and areola visible on a bare breast. Pubic mound readable. Groin wet, a sheen or a small wet trail.
+
+ASSIGNMENT. mat222. Written before generation.
+1. Place: a hotel room, on the bed. Men: four. Angle: low, looking up the front of her torso. Clothing: top off, coral string panty halfway down. Pose: kneel, bodies pressed together. Expression: bothered. Bare feet. Her action: she licks a man's nipple. She offers her chest. He licks or undresses: a man licks the center of her groin. Tongue is wet. Flesh dents.
+2. Place: a closed living room, on the sofa. Men: three. Angle: rear three-quarter, she looks back. Clothing: both off. Pose: butt pushed toward the lens, bodies pressed together. Expression: shy. Short white ankle socks. Her action: she kisses him with her tongue out. She offers her butt. He licks or undresses: a man licks the center of her buttock.
+3. Place: a bathroom floor. Men: five. Angle: low side, one thigh toward the lens. Clothing: bottom off, black string bra halfway off, cups clear of the breasts. Pose: squat, knees spread, bodies pressed together. Expression: aroused. Bare feet. Her action: she sucks his cock, and that cock is out and erect. She offers her groin. He licks or undresses: a man licks the center of her chest.
+4. Place: a shower, on the wet tile. Men: three. Angle: strict side, waist-to-hip curve large. Clothing: top off, ivory string panty halfway down, cloth has left the skin. Pose: kneel, bodies pressed together. Expression: flustered. Bare feet. Her action: she sucks his fingers. She offers her groin. He licks or undresses: a man takes the string panty off at the center of her groin, and the cloth has left that skin. A hand draws the side string outward.
+5. Place: a futon on a wood floor in a closed room. Men: four. Angle: we look up from the floor along her back, hip near the lens, shoulders farther. Clothing: both off. Pose: on all fours, bodies pressed together. Expression: glad. Short white ankle socks. Her action: she licks his cock, and that cock is out and erect. She offers her butt. He licks or undresses: a man licks the center of her buttock. We look up from the floor along her back. One man's fingers press the middle of her buttock and the flesh bulges around his fingers.
+6. Place: a bedroom, on the bed. Men: five. Angle: front, a little above the chest. Clothing: bottom off, blush-pink string bra halfway off, cups clear of the breasts. Pose: kneel, bodies pressed together. Expression: bothered. Bare feet. Her action: she sucks a man's nipple. She offers her chest. He licks or undresses: a man licks the center of her chest, and the bra cloth has left that skin.
+7. Place: a hotel room, on the bed. Men: four. Angle: extreme low, from her feet, looking up between the thighs. Clothing: both off. Pose: face down, butt raised, bodies pressed together. Expression: shy. Bare feet. Her action: she licks his cock, and that cock is out and erect. She offers her butt. He licks or undresses: a man licks the center of her buttock.
+8. Place: a closed living room, on the sofa. Men: three. Angle: seated on a couch, from the side. Clothing: top off, mint string panty halfway down. Pose: seated, bodies pressed together. Expression: aroused. Bare feet. Her action: she sucks his fingers. She offers her chest. He licks or undresses: a man licks the center of her groin.
+9. Place: a bathroom floor. Men: five. Angle: low on the floor, looking up her back. Clothing: bottom off, pale blue string bra halfway off, cups clear of the breasts. Pose: standing bent forward, bodies pressed together. Expression: flustered. Short white ankle socks. Her action: she kisses him with her tongue out. She offers her butt. He licks or undresses: a man licks the center of her buttock. Low on the floor, looking up her back, a man's fingers press the middle of one buttock until the flesh bulges around them.
+10. Place: a hotel room, seated on the bed. Men: four. Angle: seated facing the lens, knees apart, camera a little above the lap. Clothing: top off, navy string panty halfway down. Pose: seated, knees apart, bodies pressed together. Expression: glad. Bare feet. Her action: she sucks his cock, and that cock is out and erect. She offers her groin. He licks or undresses: a man licks the center of her groin.
+
+============================================================
+55. KOREAN WEBTOON TEST NOTE WITHDRAWN
+============================================================
+
+The Korean webtoon test note is withdrawn. It was a test note, not a forever lock. The style line above replaces it.

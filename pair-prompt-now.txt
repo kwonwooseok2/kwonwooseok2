@@ -50,7 +50,7 @@ She is seated facing the lens, knees apart.
 Name the floor or the furniture under every knee and every foot. Every knee and every foot rests on that surface.
 
 CAST.
-Adults only. One woman, early-career adult, slim waist, lean build. Her breasts stay a natural size for a lean build. Exactly three, four, or five men. Men are 25. Plain faces. Ordinary builds. Not muscular. The men wear only dark briefs. Do not write teen, school, or student.
+Adults only. One woman, slim waist, lean build. The woman is 22. Her breasts stay a natural size for a lean build. Exactly three, four, or five men. The men are 22. Plain faces. Ordinary builds. Not muscular. The men wear only dark briefs. Do not write teen, school, or student.
 Hair differs: black hair to the shoulders, a rust buzz, silver-blond, a short brown part. Change which head wears which. Do not give every man the same hair.
 
 ROTATE.
@@ -75,9 +75,9 @@ BODIES.
 Exactly two arms and two legs on every person. Each arm joins one shoulder and ends in one hand with five fingers. A gap of air shows between every torso. No bodies merge. No extra limbs. Solid shapes. No melted parts.
 
 CAST.
-Adults only. One woman, early-career adult, slim waist, lean build. Her breasts stay a natural size for a lean build.
+Adults only. One woman, slim waist, lean build. The woman is 22. Her breasts stay a natural size for a lean build.
 FILL count of men.
-Men are 25. Plain faces. Ordinary builds. Not muscular. The men wear only dark briefs. Do not write teen. Do not write school. Do not write student.
+The men are 22. Plain faces. Ordinary builds. Not muscular. The men wear only dark briefs. Do not write teen. Do not write school. Do not write student.
 FILL hair on each man.
 
 FILL clothes.

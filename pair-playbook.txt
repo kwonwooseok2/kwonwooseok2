@@ -2579,7 +2579,7 @@ STANDING RULE. The short file holds these lines.
 
 PASSIVE, every frame.
 - At least one man is licking her or taking her clothes off. The place is the center of her buttock, the center of her groin, or the center of her chest. Vary the place across a batch of ten. A distant look does not count. If he is taking the cloth off, the cloth has left that skin. A string pulled tight while the garment stays in place does not count. His tongue is wet.
-- The picture is a slightly realistic 2D illustration. Painted 2D, not a photograph and not a 3D render. Skin and faces are a little realistic. Do not write Korean, Korea, Japanese, Japan, anime, or manga in the prompt. This style line does not relax the sex, clothing, or contact lines. A wholesome clothed portrait is still invalid.
+- Clean colored 2D illustration. Smooth skin, soft blush on the cheeks, glossy highlights on the hair and the skin, thin clean linework, simple background. Not a photograph, not an oil painting, not 3D. Do not write Korean, Korea, Japanese, Japan, anime, or manga. This style line does not relax the sex, clothing, or contact lines. A wholesome clothed portrait is still invalid. Do not copy pink hair, an enlarged chest, or a solo pose. Her breasts stay a natural size for a slim-to-average build.
 
 ============================================================
 54. MAT222 — three to five men, a real room, lick or undress a center.
@@ -2622,7 +2622,7 @@ The Korean webtoon test note is withdrawn. It was a test note, not a forever loc
 Sections 1 through 55 stay. This section does not replace them. No reference image is attached. The lines below are in the short file PASSIVE block. They are pasted into every prompt. They do not wait for a proven picture. The style line replaces any full-color webtoon requirement.
 
 PASSIVE style.
-- Clean colored 2D illustration. Smooth skin, soft blush on the cheeks, glossy highlights on the hair and the skin, thin clean linework, simple background. Not a photograph, not an oil painting, not 3D. Do not write Korean, Korea, Japanese, Japan, anime, or manga. Do not copy the pink hair, the huge chest size, or the solo pose from the style reference. Her breasts stay a natural size for a slim-to-average mid-twenties build. This style line does not relax the sex, clothing, or contact lines. A wholesome clothed portrait is still invalid.
+- Clean colored 2D illustration. Smooth skin, soft blush on the cheeks, glossy highlights on the hair and the skin, thin clean linework, simple background. Not a photograph, not an oil painting, not 3D. Do not write Korean, Korea, Japanese, Japan, anime, or manga. This style line does not relax the sex, clothing, or contact lines. A wholesome clothed portrait is still invalid. Do not copy pink hair, an enlarged chest, or a solo pose. Her breasts stay a natural size for a slim-to-average build.
 
 PASSIVE situation.
 - One woman crowded by several men. A kiss, hands on her, clothes displaced, bodies pressed together. People kneeling apart or standing in a line is invalid and is replaced. This is the feeling of the second reference, not its exact pose.
@@ -2632,3 +2632,9 @@ PASSIVE, added because they were missing.
 - She touches, licks, takes into her mouth, or smells his erect cock. Vary which of these across a batch. The cock may be inside the stiff tent of his triangle briefs or out and erect.
 - A man sucks, grips, licks, or smells the center of her groin, the center of her chest, or the center of her buttock. His tongue is wet. A grip dents the flesh. Vary the place.
 - Both garments worn closed is invalid. Replace the frame. A string pulled tight while the garment stays on does not count as undressing.
+
+============================================================
+57. SLIGHTLY-REALISTIC SENTENCE WITHDRAWN
+============================================================
+
+The slightly-realistic sentence was withdrawn in favor of the image-1 lock. Sections 1 through 56 stay.

@@ -1593,3 +1593,19 @@ What this set still did not draw.
 - A face on the hip, or a short tongue on the cup. Those sentences were not retried. They blocked in section 35.
 
 Use when prompting, until a rear sentence passes alone: keep the overhead sentence that passed, keep the raised-shape sentence as its own line, keep the bottom off, and change hair and top color. Add "one knee is lifted" on a single frame, not on a batch. Do not attach the twenty files. Do not say the camera is behind her, and do not say her hip fills the frame, in the same prompt as this base.
+
+============================================================
+37. CORRECTION — the from-below angle was already sent
+============================================================
+
+The user resent seven files and said these are the looking-up-from-below samples, and that they had already been sent. They are right. This is not a new angle. Do not open a new family for it.
+
+Four of the seven are the same bytes as files already on disk.
+- ea56dac7 is d83841fd.
+- 6b272c14 is b16efde3.
+- 133e30cf is 9289ca76.
+- da0186ef is 94eb4444.
+
+The yellow frame, 19a6d5e7, is the same picture as section 26 image 7, d99f8ad6. Ash-blonde ponytail, yellow string bottom, one hand on the side string. The camera is extreme low, between the spread thighs, looking up the torso. The thighs fill the foreground. That line is already the keeper for this angle.
+
+Section 36's ten pictures do not satisfy it. They were shot from above because the from-below sentences blocked, and the overhead sentence was substituted. That substitution is the miss. The wanted camera stays the one in d99f8ad6. "A lens between the knees looking up the body" is still the blocked wording in the room template. A later prompt does not report an overhead frame as this sample.

@@ -8,6 +8,9 @@ A line the user called 고정 stays in the next prompt until the user takes it o
 An autonomous batch may leave section 1 only when the user says 자율. Keep at least one of her top or bottom off. When that batch ends, put section 1 back, and say that it is back.
 After every command, before the reply, update this file. Log filter pass, filter block, and picture failure separately. Add any new defect the user named. Do not wait to be asked.
 
+IMAGE RULE, user clarification. Not optional.
+An image the user attaches is a lasting preference. It shows a composition, a camera, a situation, or how the people interact, that they want available from then on. It is not an order to copy that file on the next prompt and then drop it. Write the preference into the next section and keep it. A later batch adds to the set. It does not erase the earlier sections. When a prompt is built, choose among these saved preferences and vary them. Do not restage one file pixel for pixel. Do not copy clothing that breaks the hard lock, do not copy a defect, and do not copy a figure excluded for age.
+
 USER LOCK, every future prompt, do not drop these sentences when the pose changes:
 - She kisses one man, short tongue on short tongue.
 - Her left hand presses flat on the front of the left man's briefs. Her right hand presses flat on the front of the right man's briefs.
@@ -952,7 +955,7 @@ HARD. Do not drop these.
 - When the bottom is off: "Fine dark hairs shadow the skin just below her navel." Section 40. Hard lock. It drew a short faint patch. "A small patch of short dark hair sits low on her belly" was refused.
 - "A round swell shows at the front of every man's briefs." Section 40. Hard lock. On mat207-15 and mat207-24 the front was raised and had length. "The front of each man's briefs rises in a smooth curve, longer than it is wide" was refused this batch. Do not say erect or penis.
 
-SOFT. May change after the saved images are studied.
+SOFT. The attached images are the preference library. Sections 26 through 40 stay in force together. A new section adds a composition or a situation. It does not retire the earlier ones. May change after the saved images are studied.
 - Exact pose, camera, room, man count inside "several", remaining garment, hand placement, strap, briefs shape, hair.
 - Section 38, until the user takes them out. Her palm supports the front of his briefs from below. If the hand comes from above, the fingers go past the top edge of his briefs. A wrap shows the cloth is thick under the fingers. Her mouth is open and she looks like she wants this while her hands are on the men. A short tongue on the center cloth of her bottoms is wanted. Only a sentence that has passed the filter may be pasted for that tongue.
 - Study order when the images arrive: her pose, the camera angle, how the men interact with her.

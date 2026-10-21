@@ -1,14 +1,24 @@
 PROCESS
 The prompter resolves every choice before the generator call. The generator receives one finished visual order. These words never appear in a generator prompt: pick, choose, or, either, vary, optional, invalid, at least two of these, halfway, a menu of acts.
+Send one scene and wait. Eight scenes sent together were all blocked. The same floor sent alone passed.
 
 AGES
 The woman is 22. Every man is 22. Adults only. Never use teen, school, student, child, 35, or 25.
+Age test: a floor at 22 passed. A floor at 35 passed once and still drew a black string on the hip. Chest-off sentences blocked at both ages. Do not change 22 to 35 to get past a block.
 
 CONTROL
 Control lives in pair-prompt-now.txt. It is the floor: bare hips, her hands on the briefs, tongue kiss, strap pulled down, fingers in the cup.
 
 BODY LOCK
 Two arms, two legs, five fingers, air between torsos, no merged bodies, no extra limbs, no leg starting inside the floor.
+
+SLOP LOCKS
+One bra. Fingers in a cup, a strap pulled, plus the extra sentence "That cup is folded down" drew a second black bra in the men's hands. It read as a man wearing a bra. Do not send "That cup is folded down". Send: exactly one solid black string bra stays on her body. The fingers and the pulled strap belong to that bra. No second bra. No bra in anyone's hands. Her hands do not touch the bra.
+Her hands. Her hands left the briefs and landed on the bra, the cushion, or a thigh. "Her hands do not touch the bra" was not enough: the cup-press was drawn with her hands, and the men's hands went to shoulders. Name the man by hair. Send: the rust-buzz man's fingers press the cup of the bra on her body. Her hands stay down on the briefs, away from the bra.
+Camera miss. "A low side view shows her hip large in the foreground" still rendered a frontal group at chest height. "The lens is on the floor beside her hip" was blocked. Do not use it. Do not use a view from between her thighs. Keep the low side sentence until a different camera sentence passes.
+Socks. "White ankle socks" drew one bare foot. Send: a white ankle sock is on each foot.
+Hip string. "No briefs. No panties. No waistband on her." alone still drew a black string on the hip. One later floor that already had both hip sentences still drew a black string across the hips. Both sentences are not sufficient. "The hip skin is unbroken from the waist to the thigh" was blocked. Do not send it. Keep both hip sentences. Do not name a second garment.
+Camera. "Her hip is huge in the foreground" still framed an eye-level group. Send one camera only: "A low side view shows her hip large in the foreground." Do not also send the wide-lens sentence.
 
 STYLE
 Clean commercial Japanese anime, slightly more realistic proportions, softer skin shading. Not Korean webtoon. Not a photograph.

@@ -1,3 +1,6 @@
+The current prompt is pair-prompt-now.txt. Read that file before generating.
+This file is the history.
+
 CURRENT PLAYBOOK — this chat, mat185 through mat208. Latest test is section 41.
 Use this file on the next request. Do not paste the old locked-prompt.txt blocks.
 Those older blocks contradict this scene and get blocked or draw a second garment.

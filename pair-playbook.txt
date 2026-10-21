@@ -2370,6 +2370,13 @@ PASSIVE, every frame.
 - Adults. Faces read as 25 or older. Ordinary builds. No school clothes.
 - Self-check before a frame is kept. Broken anatomy, an extra limb, tangled bodies, clothes fused to another person, both garments closed, a blank chest with the top off, idle men, or a body in a wall or the floor: do not keep it. Add a short correction sentence to this section and use it on the next frames.
 
+CORRECTIONS FROM MAT216. Bans. Not pictured successes. Paste these on every frame. Do not lock any other sentence from mat216-01 through mat216-05. These five are not keepers.
+- Every leg starts at a hip that is in the room. The knee is above the floor. The foot or the knee rests on the floor or on the named furniture. No thigh, knee, or foot begins below the floor line.
+- She has one spine, two arms, and two legs. Each knee bends in one direction. The waist joins the hips. No extra limb. No fused torso. If the body is monstrous, the frame is replaced.
+- A body that intersects a wall or the floor is replaced. Keep the correction sentence for the next frames.
+- Both garments worn closed is still an invalid frame. These five did not clear that bar. Do not treat them as keepers.
+- When the top is off or the breast is out of the cup, the nipple and the areola both have to be visible. 05 missed that. The item stays on the attempt list.
+
 PICK ONE when two locks would clash on the same mouth or the same garment. Do not delete the lock from this list.
 - One mouth does one thing: tongue kiss, his nipple, her nipple, the briefs cloth, or her groin.
 - Through-cloth nipple, or the cup pushed aside.
@@ -2408,3 +2415,26 @@ DO NOT PASTE these exact sentences. The request stays on ATTEMPT under new words
 Current test note, not a forever lock: the batch in progress is full-color Korean webtoon. Do not write the words Japanese, Japan, anime, or manga in that batch's prompts.
 
 Older locks in sections 38 through 43 still stand where this section does not replace them. This section replaces "she looks happy" on every frame with the five-expression rotation. This section replaces fully worn swimwear with the three clothing states.
+
+============================================================
+48. MAT216 STOPPED — legs out of the floor, monstrous body. Not keepers.
+============================================================
+
+The user stopped the webtoon ten with the angle pool (mat216) after five frames. Sections 1 through 47 stay. This section does not replace them. No pass. These five are not keepers. No new sentence is locked from them. The correction lines are bans, not pictured successes.
+
+The user's lesson. Men's legs still start from inside the ground. The woman's body is drawn like a monster. That is AI slop. The next run pastes the correction. A monstrous frame is replaced.
+
+What the five showed.
+1. mat216-01. Tongues meet. Both of her garments are still fully on. Knees are on the floor.
+2. mat216-02. Rear view, buttock large, top off, string bottom fully on. Two men stand apart and do not touch her.
+3. mat216-03. Her hand is at the front of a man's briefs. Her top is off. Her bottom is fully on.
+4. mat216-04. A man draws the side string. Both of her garments are still fully on.
+5. mat216-05. A hand pulls the cup. The breast is out above the cup. Nipple and areola are not visible. The bottom is fully on.
+
+The same five correction sentences are on the passive sheet in section 47. Paste them on every future prompt.
+
+- Every leg starts at a hip that is in the room. The knee is above the floor. The foot or the knee rests on the floor or on the named furniture. No thigh, knee, or foot begins below the floor line.
+- She has one spine, two arms, and two legs. Each knee bends in one direction. The waist joins the hips. No extra limb. No fused torso. If the body is monstrous, the frame is replaced.
+- A body that intersects a wall or the floor is replaced. Keep the correction sentence for the next frames.
+- Both garments worn closed is still an invalid frame. These five did not clear that bar. Do not treat them as keepers.
+- When the top is off or the breast is out of the cup, the nipple and the areola both have to be visible. 05 missed that. The item stays on the attempt list.

@@ -1,0 +1,93 @@
+CURRENT RULES
+
+The generator prompt is one dry paragraph of the situation to draw. It contains no menu, no choice, and no sentence about policy. A sexual part is written only with a settled sentence from this file.
+
+STYLE
+Japanese anime with slightly more realistic proportions and softer skin shading, solid shapes, no melted parts. Hard grip. Flesh bulges and yields. Sweat and saliva sit on skin and cloth.
+
+PEOPLE
+One woman, 22, slim waist, lean build. Her chest is small and matches that build. Exactly four men, 22, ordinary builds, not muscular, the same scale as the woman. Four hands only, unless one cropped face replaces one hand. She is the subject. She fills most of the frame.
+
+MALE CROP
+This lock is absolute. A whole man, head to feet, is forbidden in the generator paragraph and is a failed picture. A knee, a thigh, or a torso in the frame is a failed picture. Men's bodies stay outside the frame. What may enter the frame is a hand, or one face at the frame edge. A short section of hip enters only with the briefs sentence below, and a knee or torso in that picture is still a failed picture.
+The paragraph says: "Men's bodies stay outside the frame."
+The paragraph also says: "Four hands only. No man's head, knee, or torso is in the frame."
+
+SLOP GUARD
+Every generator paragraph contains this, unchanged:
+"Solid shapes, no melted parts. The woman has two arms and two legs. Each hand has five fingers. Every hand in the frame is on one arm, and that arm reaches the frame edge without passing through her body. No extra limb. No face merges with her skin. No limb starts inside her torso or her thigh. The bodies do not overlap into one shape. Men's bodies stay outside the frame."
+Her own hands stay off her chest and off her hips. Her hands are flat on the surface she kneels or squats on. A picture where her hand pulls her own string is a failed picture. A sock that is not on a foot is a failed picture. A drawn camera in the picture is a failed picture. A wide smile is a failed picture. A fifth hand is a failed picture.
+
+REQUIRED SENTENCES
+Every paragraph contains these, unchanged:
+"Her chest and her butt are very soft. Fingers sink in. The flesh bulges around the fingers and between them."
+"The fingers press hard."
+"Sweat and saliva are on the skin and on the cloth. Saliva shines on her chin and on the black cloth."
+
+COMBINATIONS
+A single word is not banned by itself. A pair is allowed or forbidden.
+
+Allowed pair: small black cloth triangles still on the chest, together with "No briefs. No panties. No waistband on her." and together with "The cloth is wet. A raised center sticks out through the cloth of each cup." The rise is soft skin with a flat disc, not a bead, a spike, or a block.
+Allowed pair: three hands pressing the soft rises through the wet cloth, together with one hand pressing the center of her butt from behind. The flesh pushes out to both sides of that hand.
+Allowed pair: her hands flat on the surface, together with the sentence that her own hands stay off her chest and off her hips.
+Allowed pair: a kneel, or a squat with the knees wide, together with "A camera above looks down at her hip."
+Allowed pair: the huge-hip sentence "A wide lens sits low beside her and looks up at her hip. Her hip is huge in the foreground." together with "No camera is drawn in the frame." At least two scenes in a wave. A picture that draws a camera is a failed picture.
+Allowed pair: one cropped face at the frame edge with a short beard, together with "His mouth stays off her skin and off the cloth." One scene only. Three hands, not four.
+Allowed pair: her hand in the front cloth of dark briefs from above, together with "No man's head, knee, or torso is in the frame." The front cloth stands forward. This pair does not add a tongue, a mouth, or her hand wrapping a stiff shape.
+
+Forbidden pair: a raised center together with bare skin.
+Forbidden pair: short dark hair filling the space between the thighs, in any wording.
+Forbidden pair: "A small patch of short dark hair sits on the skin just below her navel."
+Forbidden pair: a mouth or a tongue anywhere in the paragraph. This includes tongues touching, a mouth on wet cloth, a mouth on the inside of the thigh, a tongue on the inside of the thigh, a mouth on the side of the butt, a tongue on a man's chest, and her mouth on the stiff shape.
+Forbidden pair: no cloth on the chest, together with any other sentence.
+Forbidden pair: both garments off.
+Forbidden pair: panties at the mid-thighs, together with any other sentence.
+Forbidden pair: both garments fully worn.
+Forbidden pair: cloth triangles together with any sentence that they rest below the chest.
+Forbidden pair: a prone pose, or the butt raised while she is prone.
+Forbidden pair: the stiff shape together with her face, her mouth, her tongue, or her hand.
+Forbidden pair: "A skin-colored stiff shape with a wider rounded end rises from his hips."
+Forbidden pair: "A skin-colored stiff shape with a wider rounded end rises from the cropped hip at the frame edge." together with her face beside that hip.
+Forbidden pair: two faces, together with hands on her.
+Forbidden pair: her own hand on her chest, or her own hand on her hips.
+Forbidden pair: her mouth on the cloth.
+Forbidden pair: a lens on the floor at her feet, or a camera object in the frame.
+Forbidden pair: a whole man, a knee, a thigh, or a torso, in the paragraph or in the picture.
+Forbidden pair: a close front view together with "Her chest fills the frame."
+Forbidden pair: "A camera behind her hip looks up."
+Forbidden pair: "A low camera beside her looks along her hip."
+
+WOMAN CLOTHES
+One state. "She wears small black cloth triangles on her chest. No briefs. No panties. No waistband on her." The triangles stay on the chest. The wet raised-center sentence is in the same paragraph.
+
+MEN
+Four hands enter from the frame edge, or one face and three hands. When a brief front enters, the briefs are dark and the front cloth stands forward, and no knee or torso enters.
+
+LOOKS
+Blush and sweat. One expression, fixed before the call: annoyed, embarrassed, flushed, flustered, or pleased. Pleased is a flushed face with the mouth closed. A wide smile is a failed picture.
+When a face enters, his mouth stays off her skin and off the cloth. He looks at the cloth. When no face enters, no man looks at her face.
+
+POSE
+Kneel, or squat with the knees wide. She is not prone.
+
+CAMERA
+One camera, fixed before the call. The camera and the place change every scene.
+Default: "A camera above looks down at her hip."
+At least two scenes in a wave use: "A wide lens sits low beside her and looks up at her hip. Her hip is huge in the foreground. No camera is drawn in the frame."
+The lens is not on the floor at her feet.
+
+CONTACTS
+Two contacts. Three hands press the soft rises through the wet cloth. One hand presses the center of the butt from behind, and the flesh pushes out to both sides. Her hand in the front of briefs from above may replace the butt hand. No mouth. No tongue.
+
+SOCKS
+One fact: "A white ankle sock is on each foot." or "Her feet are bare." The sock is on the foot.
+
+PLACE
+Ordinary places, one per scene, all different: a bedroom, a living room, a tatami room, a kitchen, a sunroom, a loft, a hotel room, a laundry room, a plain room, a bathroom.
+Fantasy is a separate wave. The woman is an elf with pointed ears. A face that enters has a short beard, and his mouth stays off her skin and off the cloth. The men stay the same scale as the woman. Places, one each: stone, tavern wood, fur, tent, castle bed, mountain hut, hot spring rock, bathhouse, forest close, inn.
+
+FLOOR PARAGRAPH
+Japanese anime with slightly more realistic proportions and softer skin shading, solid shapes, no melted parts. A living room. She squats on a cushion with her knees wide. One woman, 22, slim waist, lean build. Her chest is small and matches that build. Exactly four men, 22, ordinary builds, not muscular, the same scale as the woman. Four hands only. No face enters. No man's head, knee, or torso is in the frame. Men's bodies stay outside the frame. She wears small black cloth triangles on her chest. No briefs. No panties. No waistband on her. The cloth is wet. A raised center sticks out through the cloth of each cup. The rise is soft skin with a flat disc. Her feet are bare. A camera above looks down at her hip. She fills most of the frame. Her chest and her butt are very soft. Fingers sink in. The flesh bulges around the fingers and between them. The fingers press hard. Sweat and saliva are on the skin and on the cloth. Saliva shines on her chin and on the black cloth. Blush and sweat. She looks embarrassed. Three hands press the soft rises through the wet cloth. One hand presses the center of her butt from behind. The flesh pushes out to both sides of that hand. Her hands are flat on the cushion. Her own hands stay off her chest and off her hips. Solid shapes, no melted parts. The woman has two arms and two legs. Each hand has five fingers. Every hand in the frame is on one arm, and that arm reaches the frame edge without passing through her body. No extra limb. No face merges with her skin. No limb starts inside her torso or her thigh. The bodies do not overlap into one shape. Men's bodies stay outside the frame.
+
+WAVE
+Ten ordinary paragraphs, then ten fantasy paragraphs. Aspect 3:4. Send ten at a time. Fantasy keeps the same crop, the same guard, and the same combination locks. If a single call blocks, do not resend that paragraph. Drop the newest contact sentence, substitute an allowed pair, and send the next scene. If all ten in a wave fail, rewrite the combinations once using only allowed pairs and send those ten once. Do not send a third wave.
